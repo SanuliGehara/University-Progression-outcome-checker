@@ -1,2 +1,2 @@
 # SD1-Coursework
-This repo contains a Grading System for a University to predict progression outcomes at the end of each academic year.
+This program is implemeneted by using Python to predict progression outcomes of each student. Used graphycs.py module to display the Histogram. The histogram includes the progression outcomes accodring to the data entered during the program run.
